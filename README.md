@@ -20,4 +20,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/arun-abishek-n/leetcodes/tree/main/0001-two-sum/) | Easy |
+| [0205-isomorphic-strings](https://github.com/arun-abishek-n/leetcodes/tree/main/0205-isomorphic-strings/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0205-isomorphic-strings](https://github.com/arun-abishek-n/leetcodes/tree/main/0205-isomorphic-strings/) | Easy |
 <!---LeetCode Topics End-->
