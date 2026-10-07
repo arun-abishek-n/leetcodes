@@ -23,11 +23,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/arun-abishek-n/leetcodes/tree/main/0001-two-sum/) | Easy |
 | [0049-group-anagrams](https://github.com/arun-abishek-n/leetcodes/tree/main/0049-group-anagrams/) | Medium |
 | [0205-isomorphic-strings](https://github.com/arun-abishek-n/leetcodes/tree/main/0205-isomorphic-strings/) | Easy |
+| [0290-word-pattern](https://github.com/arun-abishek-n/leetcodes/tree/main/0290-word-pattern/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/arun-abishek-n/leetcodes/tree/main/0049-group-anagrams/) | Medium |
 | [0205-isomorphic-strings](https://github.com/arun-abishek-n/leetcodes/tree/main/0205-isomorphic-strings/) | Easy |
+| [0290-word-pattern](https://github.com/arun-abishek-n/leetcodes/tree/main/0290-word-pattern/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
