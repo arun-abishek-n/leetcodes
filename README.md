@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0498-diagonal-traverse](https://github.com/arun-abishek-n/leetcodes/tree/main/0498-diagonal-traverse/) | Medium |
 | [0860-lemonade-change](https://github.com/arun-abishek-n/leetcodes/tree/main/0860-lemonade-change/) | Easy |
 | [1177-can-make-palindrome-from-substring](https://github.com/arun-abishek-n/leetcodes/tree/main/1177-can-make-palindrome-from-substring/) | Medium |
+| [1590-make-sum-divisible-by-p](https://github.com/arun-abishek-n/leetcodes/tree/main/1590-make-sum-divisible-by-p/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -39,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0387-first-unique-character-in-a-string](https://github.com/arun-abishek-n/leetcodes/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0409-longest-palindrome](https://github.com/arun-abishek-n/leetcodes/tree/main/0409-longest-palindrome/) | Easy |
 | [1177-can-make-palindrome-from-substring](https://github.com/arun-abishek-n/leetcodes/tree/main/1177-can-make-palindrome-from-substring/) | Medium |
+| [1590-make-sum-divisible-by-p](https://github.com/arun-abishek-n/leetcodes/tree/main/1590-make-sum-divisible-by-p/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -102,4 +104,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1177-can-make-palindrome-from-substring](https://github.com/arun-abishek-n/leetcodes/tree/main/1177-can-make-palindrome-from-substring/) | Medium |
+| [1590-make-sum-divisible-by-p](https://github.com/arun-abishek-n/leetcodes/tree/main/1590-make-sum-divisible-by-p/) | Medium |
 <!---LeetCode Topics End-->
