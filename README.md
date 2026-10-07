@@ -68,4 +68,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0219-contains-duplicate-ii](https://github.com/arun-abishek-n/leetcodes/tree/main/0219-contains-duplicate-ii/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/arun-abishek-n/leetcodes/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
 <!---LeetCode Topics End-->
