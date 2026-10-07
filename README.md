@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0258-add-digits](https://github.com/arun-abishek-n/leetcodes/tree/main/0258-add-digits/) | Easy |
+| [0412-fizz-buzz](https://github.com/arun-abishek-n/leetcodes/tree/main/0412-fizz-buzz/) | Easy |
 | [0498-diagonal-traverse](https://github.com/arun-abishek-n/leetcodes/tree/main/0498-diagonal-traverse/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -42,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0383-ransom-note](https://github.com/arun-abishek-n/leetcodes/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/arun-abishek-n/leetcodes/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0409-longest-palindrome](https://github.com/arun-abishek-n/leetcodes/tree/main/0409-longest-palindrome/) | Easy |
+| [0412-fizz-buzz](https://github.com/arun-abishek-n/leetcodes/tree/main/0412-fizz-buzz/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -73,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0258-add-digits](https://github.com/arun-abishek-n/leetcodes/tree/main/0258-add-digits/) | Easy |
+| [0412-fizz-buzz](https://github.com/arun-abishek-n/leetcodes/tree/main/0412-fizz-buzz/) | Easy |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/arun-abishek-n/leetcodes/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/arun-abishek-n/leetcodes/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
 | [2469-convert-the-temperature](https://github.com/arun-abishek-n/leetcodes/tree/main/2469-convert-the-temperature/) | Easy |
