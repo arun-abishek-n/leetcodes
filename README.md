@@ -55,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0387-first-unique-character-in-a-string](https://github.com/arun-abishek-n/leetcodes/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0409-longest-palindrome](https://github.com/arun-abishek-n/leetcodes/tree/main/0409-longest-palindrome/) | Easy |
 | [0412-fizz-buzz](https://github.com/arun-abishek-n/leetcodes/tree/main/0412-fizz-buzz/) | Easy |
+| [0443-string-compression](https://github.com/arun-abishek-n/leetcodes/tree/main/0443-string-compression/) | Medium |
 | [1177-can-make-palindrome-from-substring](https://github.com/arun-abishek-n/leetcodes/tree/main/1177-can-make-palindrome-from-substring/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -82,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0125-valid-palindrome](https://github.com/arun-abishek-n/leetcodes/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/arun-abishek-n/leetcodes/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0283-move-zeroes](https://github.com/arun-abishek-n/leetcodes/tree/main/0283-move-zeroes/) | Easy |
+| [0443-string-compression](https://github.com/arun-abishek-n/leetcodes/tree/main/0443-string-compression/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
