@@ -75,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0258-add-digits](https://github.com/arun-abishek-n/leetcodes/tree/main/0258-add-digits/) | Easy |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/arun-abishek-n/leetcodes/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/arun-abishek-n/leetcodes/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
+| [2469-convert-the-temperature](https://github.com/arun-abishek-n/leetcodes/tree/main/2469-convert-the-temperature/) | Easy |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/arun-abishek-n/leetcodes/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
 | [2651-calculate-delayed-arrival-time](https://github.com/arun-abishek-n/leetcodes/tree/main/2651-calculate-delayed-arrival-time/) | Easy |
 | [2769-find-the-maximum-achievable-number](https://github.com/arun-abishek-n/leetcodes/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
