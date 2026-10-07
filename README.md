@@ -77,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/arun-abishek-n/leetcodes/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/arun-abishek-n/leetcodes/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
 | [2651-calculate-delayed-arrival-time](https://github.com/arun-abishek-n/leetcodes/tree/main/2651-calculate-delayed-arrival-time/) | Easy |
+| [2769-find-the-maximum-achievable-number](https://github.com/arun-abishek-n/leetcodes/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
