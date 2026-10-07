@@ -71,5 +71,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/arun-abishek-n/leetcodes/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/arun-abishek-n/leetcodes/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
 <!---LeetCode Topics End-->
