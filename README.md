@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/arun-abishek-n/leetcodes/tree/main/0049-group-anagrams/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/arun-abishek-n/leetcodes/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0498-diagonal-traverse](https://github.com/arun-abishek-n/leetcodes/tree/main/0498-diagonal-traverse/) | Medium |
+| [0860-lemonade-change](https://github.com/arun-abishek-n/leetcodes/tree/main/0860-lemonade-change/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -56,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0409-longest-palindrome](https://github.com/arun-abishek-n/leetcodes/tree/main/0409-longest-palindrome/) | Easy |
+| [0860-lemonade-change](https://github.com/arun-abishek-n/leetcodes/tree/main/0860-lemonade-change/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
