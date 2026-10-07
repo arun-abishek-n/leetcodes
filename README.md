@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/arun-abishek-n/leetcodes/tree/main/0001-two-sum/) | Easy |
 | [0049-group-anagrams](https://github.com/arun-abishek-n/leetcodes/tree/main/0049-group-anagrams/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/arun-abishek-n/leetcodes/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0414-third-maximum-number](https://github.com/arun-abishek-n/leetcodes/tree/main/0414-third-maximum-number/) | Easy |
 | [0498-diagonal-traverse](https://github.com/arun-abishek-n/leetcodes/tree/main/0498-diagonal-traverse/) | Medium |
 | [0860-lemonade-change](https://github.com/arun-abishek-n/leetcodes/tree/main/0860-lemonade-change/) | Easy |
 ## Matrix
@@ -44,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/arun-abishek-n/leetcodes/tree/main/0049-group-anagrams/) | Medium |
+| [0414-third-maximum-number](https://github.com/arun-abishek-n/leetcodes/tree/main/0414-third-maximum-number/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
