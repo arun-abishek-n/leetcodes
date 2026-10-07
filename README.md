@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/arun-abishek-n/leetcodes/tree/main/0001-two-sum/) | Easy |
 | [0049-group-anagrams](https://github.com/arun-abishek-n/leetcodes/tree/main/0049-group-anagrams/) | Medium |
+| [0054-spiral-matrix](https://github.com/arun-abishek-n/leetcodes/tree/main/0054-spiral-matrix/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/arun-abishek-n/leetcodes/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0414-third-maximum-number](https://github.com/arun-abishek-n/leetcodes/tree/main/0414-third-maximum-number/) | Easy |
 | [0498-diagonal-traverse](https://github.com/arun-abishek-n/leetcodes/tree/main/0498-diagonal-traverse/) | Medium |
@@ -15,10 +16,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/arun-abishek-n/leetcodes/tree/main/0054-spiral-matrix/) | Medium |
 | [0498-diagonal-traverse](https://github.com/arun-abishek-n/leetcodes/tree/main/0498-diagonal-traverse/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/arun-abishek-n/leetcodes/tree/main/0054-spiral-matrix/) | Medium |
 | [0258-add-digits](https://github.com/arun-abishek-n/leetcodes/tree/main/0258-add-digits/) | Easy |
 | [0412-fizz-buzz](https://github.com/arun-abishek-n/leetcodes/tree/main/0412-fizz-buzz/) | Easy |
 | [0498-diagonal-traverse](https://github.com/arun-abishek-n/leetcodes/tree/main/0498-diagonal-traverse/) | Medium |
