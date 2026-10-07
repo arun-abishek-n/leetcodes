@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/arun-abishek-n/leetcodes/tree/main/0001-two-sum/) | Easy |
 | [0049-group-anagrams](https://github.com/arun-abishek-n/leetcodes/tree/main/0049-group-anagrams/) | Medium |
 | [0054-spiral-matrix](https://github.com/arun-abishek-n/leetcodes/tree/main/0054-spiral-matrix/) | Medium |
+| [0136-single-number](https://github.com/arun-abishek-n/leetcodes/tree/main/0136-single-number/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/arun-abishek-n/leetcodes/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0414-third-maximum-number](https://github.com/arun-abishek-n/leetcodes/tree/main/0414-third-maximum-number/) | Easy |
 | [0498-diagonal-traverse](https://github.com/arun-abishek-n/leetcodes/tree/main/0498-diagonal-traverse/) | Medium |
@@ -95,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0136-single-number](https://github.com/arun-abishek-n/leetcodes/tree/main/0136-single-number/) | Easy |
 | [1177-can-make-palindrome-from-substring](https://github.com/arun-abishek-n/leetcodes/tree/main/1177-can-make-palindrome-from-substring/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
