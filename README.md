@@ -62,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0680-valid-palindrome-ii](https://github.com/arun-abishek-n/leetcodes/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0917-reverse-only-letters](https://github.com/arun-abishek-n/leetcodes/tree/main/0917-reverse-only-letters/) | Easy |
 | [1177-can-make-palindrome-from-substring](https://github.com/arun-abishek-n/leetcodes/tree/main/1177-can-make-palindrome-from-substring/) | Medium |
+| [1208-get-equal-substrings-within-budget](https://github.com/arun-abishek-n/leetcodes/tree/main/1208-get-equal-substrings-within-budget/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -99,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0219-contains-duplicate-ii](https://github.com/arun-abishek-n/leetcodes/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [1208-get-equal-substrings-within-budget](https://github.com/arun-abishek-n/leetcodes/tree/main/1208-get-equal-substrings-within-budget/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -123,5 +125,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1177-can-make-palindrome-from-substring](https://github.com/arun-abishek-n/leetcodes/tree/main/1177-can-make-palindrome-from-substring/) | Medium |
+| [1208-get-equal-substrings-within-budget](https://github.com/arun-abishek-n/leetcodes/tree/main/1208-get-equal-substrings-within-budget/) | Medium |
 | [1590-make-sum-divisible-by-p](https://github.com/arun-abishek-n/leetcodes/tree/main/1590-make-sum-divisible-by-p/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1208-get-equal-substrings-within-budget](https://github.com/arun-abishek-n/leetcodes/tree/main/1208-get-equal-substrings-within-budget/) | Medium |
 <!---LeetCode Topics End-->
