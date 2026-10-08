@@ -52,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0205-isomorphic-strings](https://github.com/arun-abishek-n/leetcodes/tree/main/0205-isomorphic-strings/) | Easy |
 | [0290-word-pattern](https://github.com/arun-abishek-n/leetcodes/tree/main/0290-word-pattern/) | Easy |
 | [0344-reverse-string](https://github.com/arun-abishek-n/leetcodes/tree/main/0344-reverse-string/) | Easy |
+| [0345-reverse-vowels-of-a-string](https://github.com/arun-abishek-n/leetcodes/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0383-ransom-note](https://github.com/arun-abishek-n/leetcodes/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/arun-abishek-n/leetcodes/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0409-longest-palindrome](https://github.com/arun-abishek-n/leetcodes/tree/main/0409-longest-palindrome/) | Easy |
@@ -87,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0151-reverse-words-in-a-string](https://github.com/arun-abishek-n/leetcodes/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0283-move-zeroes](https://github.com/arun-abishek-n/leetcodes/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/arun-abishek-n/leetcodes/tree/main/0344-reverse-string/) | Easy |
+| [0345-reverse-vowels-of-a-string](https://github.com/arun-abishek-n/leetcodes/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0443-string-compression](https://github.com/arun-abishek-n/leetcodes/tree/main/0443-string-compression/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/arun-abishek-n/leetcodes/tree/main/0680-valid-palindrome-ii/) | Easy |
 ## Sliding Window
