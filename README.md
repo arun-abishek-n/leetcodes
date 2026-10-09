@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0860-lemonade-change](https://github.com/arun-abishek-n/leetcodes/tree/main/0860-lemonade-change/) | Easy |
 | [1177-can-make-palindrome-from-substring](https://github.com/arun-abishek-n/leetcodes/tree/main/1177-can-make-palindrome-from-substring/) | Medium |
 | [1590-make-sum-divisible-by-p](https://github.com/arun-abishek-n/leetcodes/tree/main/1590-make-sum-divisible-by-p/) | Medium |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/arun-abishek-n/leetcodes/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -74,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/arun-abishek-n/leetcodes/tree/main/0049-group-anagrams/) | Medium |
 | [0414-third-maximum-number](https://github.com/arun-abishek-n/leetcodes/tree/main/0414-third-maximum-number/) | Easy |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/arun-abishek-n/leetcodes/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -89,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0409-longest-palindrome](https://github.com/arun-abishek-n/leetcodes/tree/main/0409-longest-palindrome/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/arun-abishek-n/leetcodes/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0860-lemonade-change](https://github.com/arun-abishek-n/leetcodes/tree/main/0860-lemonade-change/) | Easy |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/arun-abishek-n/leetcodes/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -110,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1208-get-equal-substrings-within-budget](https://github.com/arun-abishek-n/leetcodes/tree/main/1208-get-equal-substrings-within-budget/) | Medium |
 | [1234-replace-the-substring-for-balanced-string](https://github.com/arun-abishek-n/leetcodes/tree/main/1234-replace-the-substring-for-balanced-string/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/arun-abishek-n/leetcodes/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/arun-abishek-n/leetcodes/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/arun-abishek-n/leetcodes/tree/main/2024-maximize-the-confusion-of-an-exam/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -137,11 +141,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1177-can-make-palindrome-from-substring](https://github.com/arun-abishek-n/leetcodes/tree/main/1177-can-make-palindrome-from-substring/) | Medium |
 | [1208-get-equal-substrings-within-budget](https://github.com/arun-abishek-n/leetcodes/tree/main/1208-get-equal-substrings-within-budget/) | Medium |
 | [1590-make-sum-divisible-by-p](https://github.com/arun-abishek-n/leetcodes/tree/main/1590-make-sum-divisible-by-p/) | Medium |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/arun-abishek-n/leetcodes/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/arun-abishek-n/leetcodes/tree/main/2024-maximize-the-confusion-of-an-exam/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1208-get-equal-substrings-within-budget](https://github.com/arun-abishek-n/leetcodes/tree/main/1208-get-equal-substrings-within-budget/) | Medium |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/arun-abishek-n/leetcodes/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/arun-abishek-n/leetcodes/tree/main/2024-maximize-the-confusion-of-an-exam/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
