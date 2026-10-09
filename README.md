@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/arun-abishek-n/leetcodes/tree/main/0001-two-sum/) | Easy |
 | [0049-group-anagrams](https://github.com/arun-abishek-n/leetcodes/tree/main/0049-group-anagrams/) | Medium |
+| [0187-repeated-dna-sequences](https://github.com/arun-abishek-n/leetcodes/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [0205-isomorphic-strings](https://github.com/arun-abishek-n/leetcodes/tree/main/0205-isomorphic-strings/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/arun-abishek-n/leetcodes/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0290-word-pattern](https://github.com/arun-abishek-n/leetcodes/tree/main/0290-word-pattern/) | Easy |
@@ -54,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/arun-abishek-n/leetcodes/tree/main/0049-group-anagrams/) | Medium |
 | [0125-valid-palindrome](https://github.com/arun-abishek-n/leetcodes/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/arun-abishek-n/leetcodes/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0187-repeated-dna-sequences](https://github.com/arun-abishek-n/leetcodes/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [0205-isomorphic-strings](https://github.com/arun-abishek-n/leetcodes/tree/main/0205-isomorphic-strings/) | Easy |
 | [0290-word-pattern](https://github.com/arun-abishek-n/leetcodes/tree/main/0290-word-pattern/) | Easy |
 | [0344-reverse-string](https://github.com/arun-abishek-n/leetcodes/tree/main/0344-reverse-string/) | Easy |
@@ -113,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0187-repeated-dna-sequences](https://github.com/arun-abishek-n/leetcodes/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/arun-abishek-n/leetcodes/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/arun-abishek-n/leetcodes/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
 | [1208-get-equal-substrings-within-budget](https://github.com/arun-abishek-n/leetcodes/tree/main/1208-get-equal-substrings-within-budget/) | Medium |
@@ -141,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/arun-abishek-n/leetcodes/tree/main/0136-single-number/) | Easy |
+| [0187-repeated-dna-sequences](https://github.com/arun-abishek-n/leetcodes/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [1177-can-make-palindrome-from-substring](https://github.com/arun-abishek-n/leetcodes/tree/main/1177-can-make-palindrome-from-substring/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -168,6 +172,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/arun-abishek-n/leetcodes/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0187-repeated-dna-sequences](https://github.com/arun-abishek-n/leetcodes/tree/main/0187-repeated-dna-sequences/) | Medium |
 ## Knuth–Morris–Pratt Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -176,4 +181,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/arun-abishek-n/leetcodes/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0187-repeated-dna-sequences](https://github.com/arun-abishek-n/leetcodes/tree/main/0187-repeated-dna-sequences/) | Medium |
+## Rolling Hash
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0187-repeated-dna-sequences](https://github.com/arun-abishek-n/leetcodes/tree/main/0187-repeated-dna-sequences/) | Medium |
+## Hash Function
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0187-repeated-dna-sequences](https://github.com/arun-abishek-n/leetcodes/tree/main/0187-repeated-dna-sequences/) | Medium |
 <!---LeetCode Topics End-->
