@@ -72,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/arun-abishek-n/leetcodes/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/arun-abishek-n/leetcodes/tree/main/2024-maximize-the-confusion-of-an-exam/) | Medium |
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/arun-abishek-n/leetcodes/tree/main/2516-take-k-of-each-character-from-left-and-right/) | Medium |
+| [2730-find-the-longest-semi-repetitive-substring](https://github.com/arun-abishek-n/leetcodes/tree/main/2730-find-the-longest-semi-repetitive-substring/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -118,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1838-frequency-of-the-most-frequent-element](https://github.com/arun-abishek-n/leetcodes/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/arun-abishek-n/leetcodes/tree/main/2024-maximize-the-confusion-of-an-exam/) | Medium |
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/arun-abishek-n/leetcodes/tree/main/2516-take-k-of-each-character-from-left-and-right/) | Medium |
+| [2730-find-the-longest-semi-repetitive-substring](https://github.com/arun-abishek-n/leetcodes/tree/main/2730-find-the-longest-semi-repetitive-substring/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
