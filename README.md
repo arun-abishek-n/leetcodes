@@ -68,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0443-string-compression](https://github.com/arun-abishek-n/leetcodes/tree/main/0443-string-compression/) | Medium |
 | [0541-reverse-string-ii](https://github.com/arun-abishek-n/leetcodes/tree/main/0541-reverse-string-ii/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/arun-abishek-n/leetcodes/tree/main/0680-valid-palindrome-ii/) | Easy |
+| [0686-repeated-string-match](https://github.com/arun-abishek-n/leetcodes/tree/main/0686-repeated-string-match/) | Medium |
 | [0917-reverse-only-letters](https://github.com/arun-abishek-n/leetcodes/tree/main/0917-reverse-only-letters/) | Easy |
 | [1044-longest-duplicate-substring](https://github.com/arun-abishek-n/leetcodes/tree/main/1044-longest-duplicate-substring/) | Hard |
 | [1177-can-make-palindrome-from-substring](https://github.com/arun-abishek-n/leetcodes/tree/main/1177-can-make-palindrome-from-substring/) | Medium |
@@ -172,24 +173,28 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/arun-abishek-n/leetcodes/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0686-repeated-string-match](https://github.com/arun-abishek-n/leetcodes/tree/main/0686-repeated-string-match/) | Medium |
 | [1392-longest-happy-prefix](https://github.com/arun-abishek-n/leetcodes/tree/main/1392-longest-happy-prefix/) | Hard |
 ## Z Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/arun-abishek-n/leetcodes/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0187-repeated-dna-sequences](https://github.com/arun-abishek-n/leetcodes/tree/main/0187-repeated-dna-sequences/) | Medium |
+| [0686-repeated-string-match](https://github.com/arun-abishek-n/leetcodes/tree/main/0686-repeated-string-match/) | Medium |
 | [1044-longest-duplicate-substring](https://github.com/arun-abishek-n/leetcodes/tree/main/1044-longest-duplicate-substring/) | Hard |
 | [1392-longest-happy-prefix](https://github.com/arun-abishek-n/leetcodes/tree/main/1392-longest-happy-prefix/) | Hard |
 ## Knuth–Morris–Pratt Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/arun-abishek-n/leetcodes/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0686-repeated-string-match](https://github.com/arun-abishek-n/leetcodes/tree/main/0686-repeated-string-match/) | Medium |
 | [1392-longest-happy-prefix](https://github.com/arun-abishek-n/leetcodes/tree/main/1392-longest-happy-prefix/) | Hard |
 ## Boyer–Moore String-Search Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/arun-abishek-n/leetcodes/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0187-repeated-dna-sequences](https://github.com/arun-abishek-n/leetcodes/tree/main/0187-repeated-dna-sequences/) | Medium |
+| [0686-repeated-string-match](https://github.com/arun-abishek-n/leetcodes/tree/main/0686-repeated-string-match/) | Medium |
 | [1044-longest-duplicate-substring](https://github.com/arun-abishek-n/leetcodes/tree/main/1044-longest-duplicate-substring/) | Hard |
 ## Rolling Hash
 | Problem Name | Difficulty |
