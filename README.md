@@ -73,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1208-get-equal-substrings-within-budget](https://github.com/arun-abishek-n/leetcodes/tree/main/1208-get-equal-substrings-within-budget/) | Medium |
 | [1234-replace-the-substring-for-balanced-string](https://github.com/arun-abishek-n/leetcodes/tree/main/1234-replace-the-substring-for-balanced-string/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/arun-abishek-n/leetcodes/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [1392-longest-happy-prefix](https://github.com/arun-abishek-n/leetcodes/tree/main/1392-longest-happy-prefix/) | Hard |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/arun-abishek-n/leetcodes/tree/main/2024-maximize-the-confusion-of-an-exam/) | Medium |
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/arun-abishek-n/leetcodes/tree/main/2516-take-k-of-each-character-from-left-and-right/) | Medium |
 | [2730-find-the-longest-semi-repetitive-substring](https://github.com/arun-abishek-n/leetcodes/tree/main/2730-find-the-longest-semi-repetitive-substring/) | Medium |
@@ -168,15 +169,18 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/arun-abishek-n/leetcodes/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [1392-longest-happy-prefix](https://github.com/arun-abishek-n/leetcodes/tree/main/1392-longest-happy-prefix/) | Hard |
 ## Z Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/arun-abishek-n/leetcodes/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0187-repeated-dna-sequences](https://github.com/arun-abishek-n/leetcodes/tree/main/0187-repeated-dna-sequences/) | Medium |
+| [1392-longest-happy-prefix](https://github.com/arun-abishek-n/leetcodes/tree/main/1392-longest-happy-prefix/) | Hard |
 ## Knuth–Morris–Pratt Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/arun-abishek-n/leetcodes/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [1392-longest-happy-prefix](https://github.com/arun-abishek-n/leetcodes/tree/main/1392-longest-happy-prefix/) | Hard |
 ## Boyer–Moore String-Search Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -186,8 +190,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0187-repeated-dna-sequences](https://github.com/arun-abishek-n/leetcodes/tree/main/0187-repeated-dna-sequences/) | Medium |
+| [1392-longest-happy-prefix](https://github.com/arun-abishek-n/leetcodes/tree/main/1392-longest-happy-prefix/) | Hard |
 ## Hash Function
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0187-repeated-dna-sequences](https://github.com/arun-abishek-n/leetcodes/tree/main/0187-repeated-dna-sequences/) | Medium |
+| [1392-longest-happy-prefix](https://github.com/arun-abishek-n/leetcodes/tree/main/1392-longest-happy-prefix/) | Hard |
 <!---LeetCode Topics End-->
