@@ -69,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0541-reverse-string-ii](https://github.com/arun-abishek-n/leetcodes/tree/main/0541-reverse-string-ii/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/arun-abishek-n/leetcodes/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0917-reverse-only-letters](https://github.com/arun-abishek-n/leetcodes/tree/main/0917-reverse-only-letters/) | Easy |
+| [1044-longest-duplicate-substring](https://github.com/arun-abishek-n/leetcodes/tree/main/1044-longest-duplicate-substring/) | Hard |
 | [1177-can-make-palindrome-from-substring](https://github.com/arun-abishek-n/leetcodes/tree/main/1177-can-make-palindrome-from-substring/) | Medium |
 | [1208-get-equal-substrings-within-budget](https://github.com/arun-abishek-n/leetcodes/tree/main/1208-get-equal-substrings-within-budget/) | Medium |
 | [1234-replace-the-substring-for-balanced-string](https://github.com/arun-abishek-n/leetcodes/tree/main/1234-replace-the-substring-for-balanced-string/) | Medium |
@@ -119,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0187-repeated-dna-sequences](https://github.com/arun-abishek-n/leetcodes/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/arun-abishek-n/leetcodes/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/arun-abishek-n/leetcodes/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
+| [1044-longest-duplicate-substring](https://github.com/arun-abishek-n/leetcodes/tree/main/1044-longest-duplicate-substring/) | Hard |
 | [1208-get-equal-substrings-within-budget](https://github.com/arun-abishek-n/leetcodes/tree/main/1208-get-equal-substrings-within-budget/) | Medium |
 | [1234-replace-the-substring-for-balanced-string](https://github.com/arun-abishek-n/leetcodes/tree/main/1234-replace-the-substring-for-balanced-string/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/arun-abishek-n/leetcodes/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
@@ -158,6 +160,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1044-longest-duplicate-substring](https://github.com/arun-abishek-n/leetcodes/tree/main/1044-longest-duplicate-substring/) | Hard |
 | [1208-get-equal-substrings-within-budget](https://github.com/arun-abishek-n/leetcodes/tree/main/1208-get-equal-substrings-within-budget/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/arun-abishek-n/leetcodes/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/arun-abishek-n/leetcodes/tree/main/2024-maximize-the-confusion-of-an-exam/) | Medium |
@@ -175,6 +178,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/arun-abishek-n/leetcodes/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0187-repeated-dna-sequences](https://github.com/arun-abishek-n/leetcodes/tree/main/0187-repeated-dna-sequences/) | Medium |
+| [1044-longest-duplicate-substring](https://github.com/arun-abishek-n/leetcodes/tree/main/1044-longest-duplicate-substring/) | Hard |
 | [1392-longest-happy-prefix](https://github.com/arun-abishek-n/leetcodes/tree/main/1392-longest-happy-prefix/) | Hard |
 ## Knuth–Morris–Pratt Algorithm
 | Problem Name | Difficulty |
@@ -186,14 +190,29 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/arun-abishek-n/leetcodes/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0187-repeated-dna-sequences](https://github.com/arun-abishek-n/leetcodes/tree/main/0187-repeated-dna-sequences/) | Medium |
+| [1044-longest-duplicate-substring](https://github.com/arun-abishek-n/leetcodes/tree/main/1044-longest-duplicate-substring/) | Hard |
 ## Rolling Hash
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0187-repeated-dna-sequences](https://github.com/arun-abishek-n/leetcodes/tree/main/0187-repeated-dna-sequences/) | Medium |
+| [1044-longest-duplicate-substring](https://github.com/arun-abishek-n/leetcodes/tree/main/1044-longest-duplicate-substring/) | Hard |
 | [1392-longest-happy-prefix](https://github.com/arun-abishek-n/leetcodes/tree/main/1392-longest-happy-prefix/) | Hard |
 ## Hash Function
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0187-repeated-dna-sequences](https://github.com/arun-abishek-n/leetcodes/tree/main/0187-repeated-dna-sequences/) | Medium |
+| [1044-longest-duplicate-substring](https://github.com/arun-abishek-n/leetcodes/tree/main/1044-longest-duplicate-substring/) | Hard |
 | [1392-longest-happy-prefix](https://github.com/arun-abishek-n/leetcodes/tree/main/1392-longest-happy-prefix/) | Hard |
+## Suffix Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1044-longest-duplicate-substring](https://github.com/arun-abishek-n/leetcodes/tree/main/1044-longest-duplicate-substring/) | Hard |
+## Suffix Automaton
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1044-longest-duplicate-substring](https://github.com/arun-abishek-n/leetcodes/tree/main/1044-longest-duplicate-substring/) | Hard |
+## Suffix Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1044-longest-duplicate-substring](https://github.com/arun-abishek-n/leetcodes/tree/main/1044-longest-duplicate-substring/) | Hard |
 <!---LeetCode Topics End-->
