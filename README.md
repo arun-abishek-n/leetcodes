@@ -230,6 +230,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0181-employees-earning-more-than-their-managers](https://github.com/arun-abishek-n/leetcodes/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
 | [0182-duplicate-emails](https://github.com/arun-abishek-n/leetcodes/tree/main/0182-duplicate-emails/) | Easy |
 | [0183-customers-who-never-order](https://github.com/arun-abishek-n/leetcodes/tree/main/0183-customers-who-never-order/) | Easy |
+| [0185-department-top-three-salaries](https://github.com/arun-abishek-n/leetcodes/tree/main/0185-department-top-three-salaries/) | Hard |
 | [0196-delete-duplicate-emails](https://github.com/arun-abishek-n/leetcodes/tree/main/0196-delete-duplicate-emails/) | Easy |
 | [0197-rising-temperature](https://github.com/arun-abishek-n/leetcodes/tree/main/0197-rising-temperature/) | Easy |
 | [0262-trips-and-users](https://github.com/arun-abishek-n/leetcodes/tree/main/0262-trips-and-users/) | Hard |
