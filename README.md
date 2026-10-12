@@ -247,4 +247,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1341-movie-rating](https://github.com/arun-abishek-n/leetcodes/tree/main/1341-movie-rating/) | Medium |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/arun-abishek-n/leetcodes/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
 | [1407-top-travellers](https://github.com/arun-abishek-n/leetcodes/tree/main/1407-top-travellers/) | Easy |
+| [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/arun-abishek-n/leetcodes/tree/main/1581-customer-who-visited-but-did-not-make-any-transactions/) | Easy |
 <!---LeetCode Topics End-->
