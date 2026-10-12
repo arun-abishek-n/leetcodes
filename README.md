@@ -239,6 +239,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0596-classes-with-at-least-5-students](https://github.com/arun-abishek-n/leetcodes/tree/main/0596-classes-with-at-least-5-students/) | Easy |
 | [0607-sales-person](https://github.com/arun-abishek-n/leetcodes/tree/main/0607-sales-person/) | Easy |
 | [0620-not-boring-movies](https://github.com/arun-abishek-n/leetcodes/tree/main/0620-not-boring-movies/) | Easy |
+| [0626-exchange-seats](https://github.com/arun-abishek-n/leetcodes/tree/main/0626-exchange-seats/) | Medium |
 | [0627-swap-sex-of-employees](https://github.com/arun-abishek-n/leetcodes/tree/main/0627-swap-sex-of-employees/) | Easy |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/arun-abishek-n/leetcodes/tree/main/1050-actors-and-directors-who-cooperated-at-least-three-times/) | Easy |
 | [1068-product-sales-analysis-i](https://github.com/arun-abishek-n/leetcodes/tree/main/1068-product-sales-analysis-i/) | Easy |
