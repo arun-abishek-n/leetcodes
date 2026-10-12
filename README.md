@@ -244,4 +244,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/arun-abishek-n/leetcodes/tree/main/1141-user-activity-for-the-past-30-days-i/) | Easy |
 | [1148-article-views-i](https://github.com/arun-abishek-n/leetcodes/tree/main/1148-article-views-i/) | Easy |
 | [1211-queries-quality-and-percentage](https://github.com/arun-abishek-n/leetcodes/tree/main/1211-queries-quality-and-percentage/) | Easy |
+| [1341-movie-rating](https://github.com/arun-abishek-n/leetcodes/tree/main/1341-movie-rating/) | Medium |
 <!---LeetCode Topics End-->
