@@ -257,4 +257,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1729-find-followers-count](https://github.com/arun-abishek-n/leetcodes/tree/main/1729-find-followers-count/) | Easy |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/arun-abishek-n/leetcodes/tree/main/1741-find-total-time-spent-by-each-employee/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/arun-abishek-n/leetcodes/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
+| [1789-primary-department-for-each-employee](https://github.com/arun-abishek-n/leetcodes/tree/main/1789-primary-department-for-each-employee/) | Easy |
 <!---LeetCode Topics End-->
